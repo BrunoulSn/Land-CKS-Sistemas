@@ -8,9 +8,6 @@ export default function Footer() {
           <p className="text-lg font-bold text-white">
             CKS<span className="text-[#10B981]">Sistemas</span>
           </p>
-          <p className="text-xs text-gray-500 mt-1">
-            Fundada por Bruno Cristiano Silva e Jean Kaleb Silva.
-          </p>
         </div>
 
         <div className="text-center sm:text-right">
