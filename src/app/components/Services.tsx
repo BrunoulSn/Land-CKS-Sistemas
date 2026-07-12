@@ -7,7 +7,7 @@ const services = [
   {
     icon: <Database className="w-8 h-8 text-[#10B981]" />,
     title: "Sistemas Web Customizados",
-    desc: "Desenvolvimento de ERPs, CRMs e dashboards internos projetados especificamente para a rotina e regras de negócio da sua empresa.",
+    desc: "Desenvolvimento de sistemas internos projetados especificamente para a rotina e regras de negócio da sua empresa.",
   },
   {
     icon: <Layout className="w-8 h-8 text-[#10B981]" />,

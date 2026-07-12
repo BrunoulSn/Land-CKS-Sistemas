@@ -4,10 +4,8 @@ import { CheckCircle } from "lucide-react";
 
 const features = [
   "Desenvolvimento centrado no crescimento operacional e sucesso do cliente.",
-  "Atendimento próximo e consultivo diretamente com Cristiano e Kaleb Silva.",
-  "Tecnologias modernas (React/Next.js) que garantem carregamento instantâneo.",
+  "Tecnologias modernas que garantem carregamento instantâneo.",
   "Arquitetura focada em SEO estruturado para rankear organicamente no Google.",
-  "Entregas modulares e transparentes: você acompanha o progresso em tempo real.",
   "Suporte técnico ágil, humanizado e descomplicado.",
 ];
 

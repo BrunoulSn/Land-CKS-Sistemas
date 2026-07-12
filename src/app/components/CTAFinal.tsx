@@ -21,9 +21,9 @@ export default function CTAFinal() {
               Pronto para elevar o nível digital da sua empresa?
             </h2>
             <p className="text-gray-400 text-base sm:text-lg">
-              Fale agora com nossos fundadores. Vamos analisar sua operação
-              atual e desenhar a melhor arquitetura de software para o seu
-              modelo de negócio.
+              Fale agora com a gente. Vamos analisar sua operação atual e
+              desenhar a melhor arquitetura de software para o seu modelo de
+              negócio.
             </p>
             <div className="pt-4">
               {/* O link aponta para o WhatsApp comercial. Substitua pelo link real do seu número */}
