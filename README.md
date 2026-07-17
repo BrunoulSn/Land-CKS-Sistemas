@@ -1,71 +1,72 @@
-> Uma landing page moderna de apresentação da empresa CKS Sistemas desenvolvida com Next.js, focada em performance, acessibilidade e excelente experiência do usuário.
+<p align="left">
+  <a href="./README.pt-br.md">🇧🇷 Leia este README em Português</a>
+</p>
+
+> A modern landing page built with Next.js to present the CKS Sistemas company, focusing on performance, accessibility, and an outstanding user experience.
 
 ---
 
-## 💻 Sobre o Projeto
+## 💻 About the Project
 
-Este projeto foi desenvolvido como parte do meu portfólio profissional para demonstrar minhas habilidades práticas na criação de aplicações web modernas, robustas e escaláveis. 
+This project was developed as part of my professional portfolio to demonstrate my hands-on skills in building modern, robust, and scalable web applications. 
 
-O principal objetivo do projeto é apresentar uma estrutura de do desenvolvimento frontend utilizando React e Next.js.
+The main goal of the project is to showcase a solid frontend development architecture using React and Next.js, applying modern design and usability concepts.
 
-### 🛠️ Tecnologias e Ferramentas Utilizadas
+### 🛠️ Tech Stack & Tools
 
-Para a construção deste projeto, utilizei as melhores práticas de mercado e as seguintes tecnologias:
+To build this project, I followed industry best practices and used the following technologies:
 
-*   **[Next.js 14/15](https://nextjs.org/)** (App Router) - Para renderização híbrida (SSR/SSG), roteamento dinâmico e otimização de performance.
-*   **[React](https://react.dev/)** - Para construção de interfaces baseadas em componentes reutilizáveis e gerenciamento de estado eficiente.
-*   **TypeScript** - Para garantir tipagem estática, reduzindo bugs em tempo de desenvolvimento e melhorando a manutenção do código.
-*   **[Tailwind CSS](https://tailwindcss.com/)** (ou outra biblioteca de estilos) - Para estilização rápida, responsiva e de alta fidelidade.
-*   **next/font** - Para otimização automatizada da fonte **Geist**, reduzindo o tempo de carregamento da página.
-
----
-
-## 🎯 O que eu demonstrei/aprendi com este projeto?
-
-Como desenvolvedor, este projeto reflete minha capacidade de:
-1.  **Arquitetura de Software:** Organização limpa de pastas utilizando a estrutura de `app/` do Next.js.
-2.  **Performance & SEO:** Uso de renderização do lado do servidor (SSR) e otimização de imagens e fontes nativas do Next.js para garantir notas altas no Lighthouse.
-3.  **Clean Code:** Escrita de código TypeScript tipado, legível e de fácil manutenção.
-4.  **Responsividade:** Design pensado para dispositivos móveis (Mobile-First) e desktops.
+* **[Next.js](https://nextjs.org/)** (App Router) - For hybrid rendering (SSR/SSG), dynamic routing, and performance optimization.
+* **[React](https://react.dev/)** - For building interfaces based on reusable components and efficient state management.
+* **[TypeScript](https://www.typescriptlang.org/)** - To ensure static typing, reducing runtime bugs, and improving code maintainability.
+* **[Tailwind CSS](https://tailwindcss.com/)** - For fast, responsive, and high-fidelity styling.
+* **next/font** - For automated optimization of the **Geist** font, reducing page load times.
 
 ---
 
-## 🚀 Como Executar o Projeto Localmente
+## 🎯 What I Demonstrated/Learned with this Project
 
-Siga as instruções abaixo para rodar o projeto em sua máquina local para análise.
+As a developer, this project reflects my ability to handle:
+1. **Software Architecture:** Clean folder organization leveraging Next.js `app/` directory structure.
+2. **Performance & SEO:** Server-Side Rendering (SSR) usage and native Next.js image/font optimization to ensure high Lighthouse scores.
+3. **Clean Code:** Well-typed, readable, and highly maintainable TypeScript code.
+4. **Responsiveness:** Mobile-First design, seamlessly adapting from mobile viewports to large desktops.
 
-### Pré-requisitos
-Certifique-se de ter o Node.js](https://nodejs.org/) instalado em sua máquina.
+---
 
-### Passo a Passo
+## 🚀 How to Run the Project Locally
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-   ```
+Follow the instructions below to get a local copy up and running for review.
 
-2.  Acesse a pasta do projeto:
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Step-by-Step
+
+1. Clone this repository:
 ```Bash
-cd SEU-REPOSITORIO
+git clone [https://github.com/BrunoulSn/Land-CKS-Sistemas](https://github.com/BrunoulSn/Land-CKS-Sistemas)
+```
+2. Navigate to the project folder:
+```Bash
+cd Land-CKS-Sistemas
 ```
 
-Instale as dependências:
+3. Install the dependencies:
 ```Bash
 npm install
-# ou yarn install / pnpm install / bun install
 ```
 
-Inicie o servidor de desenvolvimento:
+4. Start the development server:
 ```Bash
 npm run dev
-# ou yarn dev / pnpm dev / bun dev
 ```
 
-Abra http://localhost:3000 no seu navegador para ver o projeto em execução.
+5. Open http://localhost:3000 in your browser to see the application live.
 
-## 🌐 Deploy & Demonstração
-O projeto está publicado e pode ser testado online!
+🌐 Deploy & Demo
+The project is live and ready to be tested online!
 
-🔗 Link do Projeto: https://ckssistemas-96dmsowzh-brunostudy.vercel.app
+🔗 Project Link: [https://ckssistemas-96dmsowzh-brunostudy.vercel.app](https://ckssistemas-96dmsowzh-brunostudy.vercel.app/)
 
-(O deploy foi realizado de forma contínua através da plataforma Vercel)
+(The continuous deployment was configured and hosted on the Vercel platform)
