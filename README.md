@@ -45,7 +45,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone this repository:
 ```Bash
-git clone [https://github.com/BrunoulSn/Land-CKS-Sistemas](https://github.com/BrunoulSn/Land-CKS-Sistemas)
+git clone https://github.com/BrunoulSn/Land-CKS-Sistemas
 ```
 2. Navigate to the project folder:
 ```Bash
